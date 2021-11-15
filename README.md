@@ -1,4 +1,4 @@
-## Hello World! I am Marcos Favarão.
+## Hello World! I'm Marcos Favarão.
 
 <div align="center">
   <a href="https://github.com/marcosfavarao">
