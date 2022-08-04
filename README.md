@@ -5,8 +5,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_marcosfavarao)](https://twitter.com/_marcosfavarao)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/268976/marcos-favar%c3%a3o?tab=profile)](https://pt.stackoverflow.com/users/268976/marcos-favar%C3%A3o?tab=profile)
 
-<br />
-
 I'm a Software Developer focused and passionate on Web development. I am 27 years old living in Brazil, searching for a great place to work.
 
 ```ts script.ts
