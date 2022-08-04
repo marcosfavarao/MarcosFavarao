@@ -8,9 +8,9 @@
 I'm a Software Developer focused and passionate on web development. I am 27 years old living in Brazil, searching for a great place to work.
 
 ```ts script.ts
-const infos = {
-   🌐 Portfolio: 'https://www.marcosfavarao.dev/',
-   ✉️ Email: 'marcosfavarao@gmail.com',
+const content = {
+   🌐 portfolio: 'https://www.marcosfavarao.dev/',
+   ✉️ email: 'marcosfavarao@gmail.com',
 }
 ```
 
