@@ -52,7 +52,6 @@ const infos = {
 <table align="center">
   <row>
     <td>
-     <!-- Card -->
       <img height='180rem' src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosfavarao&layout=compact&langs_count=7&theme=react">
     </td>
     <td>
