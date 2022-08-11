@@ -11,7 +11,7 @@ I'm a Software Developer focused and passionate on web development. I am 27 year
 const content = {
    🌐 portfolio: 'https://www.marcosfavarao.dev/',
    ✉️ email: 'marcosfavarao@gmail.com',
-}
+};
 ```
 
 <br />
